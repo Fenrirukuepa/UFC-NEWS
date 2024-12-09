@@ -1,0 +1,11 @@
+body {background: silver;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#container {
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+header {
+    background: red;
+}
